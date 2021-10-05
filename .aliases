@@ -1,0 +1,42 @@
+# My helpful aliases
+
+alias ls="ls --color=auto"
+
+# git stuff
+alias gpul="git pull"
+alias gpsh="git push"
+alias gfpr="git fetch origin --prune"
+alias gshw="git show"
+alias glog="git log"
+
+# to save my ass
+alias maek="make"
+alias py="python3"
+alias pyton="python3"
+alias pyhon="python3"
+alias pyon="python3"
+alias cmaek="cmake"
+alias ninaj="ninja"
+alias sl="ls --color=auto"
+alias l=sl
+alias la="ls -la"
+alias dc="cd"
+
+# to see multilevel tree
+alias trl1="tree -L 1"
+alias trl2="tree -L 2"
+alias trl3="tree -L 3"
+alias trl4="tree -L 4"
+alias trl5="tree -L 5"
+alias trlx="tree"
+
+# latest and greatest vscode
+alias code=${HOME}/Downloads/play/VSCode-linux-x64/bin/code
+
+# modulecmd stuff
+alias mav="module avail"
+alias msh="module show"
+alias mls="module list"
+alias mu="module unload"
+alias ml="module load"
+alias mp="module purge"
