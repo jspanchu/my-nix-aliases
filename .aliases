@@ -29,14 +29,3 @@ alias trl3="tree -L 3"
 alias trl4="tree -L 4"
 alias trl5="tree -L 5"
 alias trlx="tree"
-
-# latest and greatest vscode
-alias code=${HOME}/Downloads/play/VSCode-linux-x64/bin/code
-
-# modulecmd stuff
-alias mav="module avail"
-alias msh="module show"
-alias mls="module list"
-alias mu="module unload"
-alias ml="module load"
-alias mp="module purge"
